@@ -5062,5 +5062,31 @@
       {"name":"ltherm.app.js","url":"app.js"},
       {"name":"ltherm.img","url":"icon.js","evaluate":true}
     ]
-  }
+},
+{ "id": "timer",
+  "name": "My Timer App",
+  "shortName":"My Timer",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "This is a description of my awesome timer app",
+  "tags": "",
+  "storage": [
+    {"name":"timer.app.js","url":"app.js"},
+    {"name":"timer.img","url":"app-icon.js","evaluate":true}
+  ]
+},
+{ "id": "runTrkr",
+  "name": "A tracker used for running",
+  "shortName":"Run tracker",
+  "version":"0.01",
+  "description": "A tracker that you can use for running",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"runTrkr.app.js","url":"app.js"},
+    {"name":"runTrkr.img","url":"app-icon.js","evaluate":true}
+  ]
+}
 ]
