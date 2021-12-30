@@ -5075,7 +5075,7 @@
     {"name":"timer.img","url":"app-icon.js","evaluate":true}
   ]
 },
-{ "id": "runTrkr",
+{ "id": "runTracker",
   "name": "A tracker used for running",
   "shortName":"Run tracker",
   "version":"0.01",
@@ -5085,8 +5085,8 @@
   "supports" : ["BANGLEJS2"],  
   "readme": "README.md",
   "storage": [
-    {"name":"runTrkr.app.js","url":"app.js"},
-    {"name":"runTrkr.img","url":"app-icon.js","evaluate":true}
+    {"name":"runTracker.app.js","url":"app.js"},
+    {"name":"runTracker.img","url":"app-icon.js","evaluate":true}
   ]
 }
 ]
