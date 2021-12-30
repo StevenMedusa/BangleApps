@@ -1,0 +1,16 @@
+},
+{ "id": "runTrkr",
+  "name": "A tracker used for running",
+  "shortName":"Run tracker",
+  "version":"0.01",
+  "description": "A tracker that you can use for running",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"runTrkr.app.js","url":"app.js"},
+    {"name":"runTrkr.img","url":"app-icon.js","evaluate":true}
+  ]
+}
+]
