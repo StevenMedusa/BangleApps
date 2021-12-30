@@ -1,3 +1,4 @@
+},
 { "id": "runTrkr",
   "name": "A tracker used for running",
   "shortName":"Run tracker",
@@ -12,3 +13,4 @@
     {"name":"runTrkr.img","url":"app-icon.js","evaluate":true}
   ]
 }
+]
